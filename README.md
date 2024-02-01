@@ -8,6 +8,8 @@ Sensors and Components Used:
       * Buzzer 
       * Vibrator 
       * MCU 8051 IDE
+Software Used:
+     Keil Software
 
 Photos Of Project:
 ![image](https://github.com/MirthulaRavichandran/Smart-stick-using-Microcontrollers/assets/140338940/f047a8c2-7e28-44c1-995e-67e76dbc242b)
